@@ -1,2 +1,7 @@
 # Website URL
 https://www.dgflagg.info/
+
+# Test locally
+```
+jekyll serve
+```

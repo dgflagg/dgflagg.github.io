@@ -1,7 +1,13 @@
-# Website URL
+## Website URL
 https://www.dgflagg.info/
 
-# Test locally
+
+## Build locally
 ```
-jekyll serve
+bundle install
+```
+
+## Test locally
+```
+bundle exec jekyll serve
 ```

@@ -1,18 +1,13 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello, my name is Douglas Flagg. I live in Raleigh, North Carolina. I am a developer & cloud engineer with over ten years experience hacking together applications.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My recent talks:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[Open Source In Finance Forum 2023](https://youtu.be/0HhaFCJizNA?feature=shared)
 
-
-[jekyll-organization]: https://github.com/jekyll
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0HhaFCJizNA?si=KHhnwjx3EMQBG2D6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

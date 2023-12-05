@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/dgflagg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.dgflagg.info
+  * I am dgflagg (https://keybase.io/dgflagg) on keybase.
+  * I have a public key with fingerprint E7B5 8171 E038 E50C C62F  B231 7CBF 3348 02F0 D319
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ed5fbb6cb22c47970379e85c1e53436872ea1e962269886137f34807b3e860b70a",
+      "fingerprint": "e7b58171e038e50cc62fb2317cbf334802f0d319",
+      "host": "keybase.io",
+      "key_id": "7cbf334802f0d319",
+      "kid": "01013e99cb9c5c5eea4ec78cb37b60eb3940b424db401f6e73cd47a0d83253e5a28d0a",
+      "uid": "51fc1ceb86ec7083b799e9c57d70ce19",
+      "username": "dgflagg"
+    },
+    "service": {
+      "hostname": "www.dgflagg.info",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1701754166,
+  "expire_in": 157680000,
+  "prev": "3f61fb4b86458755f0c55c6c87ed50f559be7909872b8a4ea6cff3fa28f51ba7",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNuAnicbVJ/UFRVFObHwsgaIUyFYI36ELVi4P2+722mgIParIMkY7lEPd59777d
+B9su7i4gsDrpxJQiqLDJJJGUOJG5ZSBWVAJOEojCwNowAVNRMxHlEEYq0QC93cH/
+uv/cued+33fOd875JjI0SB/s7qB2hEz74oL7uuqLgpCtjS3HoF0uxQzlWAEKXMgq
+I6dLKFBlzIDhBIkjmVEgZCVIkhINeIBTgEccIxGIoWiK5QCJRALxLEmyPMexBAUU
+iuZwACnEsTgEuIglYYpqMyNHoUO1uTRZBCDDEYBAOMUhBpckllQgSRFAggrlJ5MK
+LlMErxEtdqefoRUHRSdKVu1aTHsIgfL+B/+gbpygEM9LkJcYiUFIpJEEOAlSALI4
+ghRP45AmaRnSOKGwCFCSTAMRlzmKZCjEiCQnB+ouCsgxhCIREoIcq6ngHAUBzyNN
+GcgAl1Agb5ETOWziq0hDy2bFKprN2IEkTAsWqxLy99VvZAlQUlKSvARKVm2K31Kh
+w+6yS3ar9mtxuQqdBj/bVVoYgCMoLAkJULXJWis1RjFyOFW7DTMQGlJyqX5lAuAE
+YGiCZZMwtL9QdSBB9SMYwHK4dvx5ULEmSSksoUBaM0QzHGAYBZcYRmIlDmjTxhWG
+4SECPM5rw4Wc1juRlRSFUrS2KAwBRYD5re2z2TEDqaVyiWZN06mabaKryIGwA1e7
+cnVBwfqg8LAQ/44F6SNWPNi8jWuiFmFvvHf4ZuOTZ++krinbvSz7vYqK0U3Rmetv
+jRmpHsvJmx5jS8LosoruG/2nD+3k2IWv7+4t0M2a7v90NCO/5kTkzEOnBjeHmgas
+OSWn5t2H9OLIJMCbEkhfaEvehQnR/c65Wt2LAz2Xm4SuWKFFGPuxdkFY4bnkfQlL
+yvr5dtaeK5ZrKb9FZgx/fma8c+qgzkMTmLmm5hm9pyvv4vVjKff+PHKnA0zmJybG
+xUc+lpv7RdEH2VaFHYn9coevOfp0vzReE97elPZ73qqqfJPXK6yeeiv48FbBuK5j
++UobHf321b0bv29e1GWLpt6Bs9dTY8sbjTfOl0z0jXS3XZiuqg/Z5vvq/Sph+8Kj
+Q00z7KewwHjxW8sjtREvWI+MVahPVG4Y+2SfN/OVDSOmw8Tudw38h3893rPpEvPZ
+3Yy6yu6YNxejuMpWz5glvbnhucm5At3BW+bciolj83Juza+U8HrfdOu1eHN/S5R6
+WSnbRQx+HPfaMB6z/Lu5/vArZXNxf2OOzSG+BG79qh+G3H+ca99zYpd7sHPt00yD
+cedQ76yDdG8xPJz175beCHhUufdy9eyzfecbcraC47cbh33sytZ/8KT62ZPp6S3H
+76fFhFVVz1ja2lbXhXn3p24zpQkZ6XD8+bQ6bqx1KsUzn/rRaCelP1OdySfmvPFU
+8C+VCaXryGpL+1r9f5t0vgY=
+=snqQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dgflagg
+
+==================================================================

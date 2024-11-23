@@ -4,11 +4,15 @@ title: About
 permalink: /about
 ---
 
-Hello, my name is Douglas Flagg. I live in Raleigh, North Carolina. I am a developer & cloud engineer with over ten years experience hacking together applications.
+Hello, my name is Douglas Flagg. I live in Durham, North Carolina. I am a developer & cloud engineer with over ten years experience hacking together applications.
 
 ### Conference Talks
 
-- [Open Source In Finance Forum 2023](https://youtu.be/0HhaFCJizNA?feature=shared)
+- [CNCF OpenTofu Day 2024 - Enabling OpenTofu for the Enterprise](https://youtu.be/7Ypulc2GyoE?si=dw_lxEh2ITtx77tZ)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Ypulc2GyoE?si=-hr2W2hZ-c8Bbqxb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- [Open Source In Finance Forum 2023 - How Fidelity Investments Leverages Inner Source for Cloud Infrastructure Management](https://youtu.be/0HhaFCJizNA?feature=shared)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0HhaFCJizNA?si=KHhnwjx3EMQBG2D6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

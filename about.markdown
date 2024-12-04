@@ -14,7 +14,7 @@ Hello, my name is Douglas Flagg. I live in Durham, North Carolina. I am a develo
 
 - [All Things Open 2024 - How I Learned to Stop Worrying about My Infrastructure and Love [Open] Tofu](https://youtu.be/WxTcuzNBEYs?si=1B7SiH-RKQpYbV0j)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WxTcuzNBEYs?si=GnqXudwikr0FG5Qy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WxTcuzNBEYs?si=Vi9koElbQQDfm6Vj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - [Open Source In Finance Forum 2023 - How Fidelity Investments Leverages Inner Source for Cloud Infrastructure Management](https://youtu.be/0HhaFCJizNA?feature=shared)
 
